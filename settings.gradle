@@ -1,0 +1,3 @@
+rootProject.name = "MaskEditText"
+include ':app'
+include ':MaskedEditText'
